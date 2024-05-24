@@ -1,4 +1,9 @@
  Hi there 👋
+ 🔭 I’m currently a 3rd-year B.Tech student, passionate about exploring the fields of data science, machine learning, and software development.
+ 😄 Pronouns: she/her
+ ⚡ Fun fact: When I'm not coding, you can find me sketching, writing stories, or diving into a good book. These hobbies fuel my creativity and help me unwind!
+
+
 
 <!--
 **vaishaliisingh/vaishaliisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
