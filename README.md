@@ -1,6 +1,5 @@
-# 👋 Hello! I'm Vaishali
+![Hi there!](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-I am a third-year engineering student passionate about software development, data analytics, and innovative solutions. Currently, I'm honing my skills through an internship at Celebal Technologies, where I work on exciting projects and weekly assignments.
 
 ## 🌟 Skills and Interests
 - **Programming Languages**: Python, SQL, C++
