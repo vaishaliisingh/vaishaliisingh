@@ -1,8 +1,28 @@
- Hi there 👋
-- 🔭 I’m currently a 3rd-year B.Tech student, passionate about exploring the fields of data science, machine learning, and software development.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: When I'm not coding, you can find me sketching, writing stories, or diving into a good book. These hobbies fuel my creativity and help me unwind!
+# 👋 Hello! I'm Vaishali
 
+I am a third-year engineering student passionate about software development, data analytics, and innovative solutions. Currently, I'm honing my skills through an internship at Celebal Technologies, where I work on exciting projects and weekly assignments.
+
+## 🌟 Skills and Interests
+- **Programming Languages**: Python, SQL, C++
+- **Technologies**: Apache Spark, Databricks, Hadoop
+- **Interests**: Data Science, Machine Learning, Web Scraping
+
+## 🚀 Current Projects
+- **Celebal Technologies Internship**
+  - Weekly assignments showcasing SQL proficiency
+  - Additional projects involving data analysis and transformation
+
+## 🎓 Education
+- **[Jaipur Engineering College and Research Center, Jaipur]**
+  - Bachelor of Technology in Information technology
+  - Expected Graduation: 2025
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vaishaliisingh)
+- [Email](mailto:vaishalisingh.it25@gmail.com)
+
+## 📂 Repositories
+Feel free to explore my repositories for assignments, projects, and more!
 
 
 <!--
