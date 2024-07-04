@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaishaliisingh.vaishaliisingh" />
 
-# 👋 Hello! I'm Vaishali Singh
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-I am a third-year engineering student passionate about software development, data analytics, and innovative solutions. Currently, I'm honing my skills through an internship at Celebal Technologies, where I work on exciting projects and weekly assignments.
 
 ## 🌟 Skills and Interests
 - **Programming Languages**: Python, SQL, C++
