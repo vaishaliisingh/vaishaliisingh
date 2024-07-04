@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaishaliisingh.vaishaliisingh" />
+
 # 👋 Hello! I'm Vaishali Singh
 
 I am a third-year engineering student passionate about software development, data analytics, and innovative solutions. Currently, I'm honing my skills through an internship at Celebal Technologies, where I work on exciting projects and weekly assignments.
