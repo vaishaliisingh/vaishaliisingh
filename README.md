@@ -18,7 +18,7 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact **I love sketching, Reading and writing** in my free time
+⚡ Fun fact **I love to sketch, Read and write** in my free time
 
  </div>
 
