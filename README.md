@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,mysql,github" />
-    <img src="https://skillicons.dev/icons?i=html,css,linux <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,visualstudio,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,linux,opencv,pytorch <div align="center">
     
 </div>
 
