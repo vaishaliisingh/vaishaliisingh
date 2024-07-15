@@ -54,7 +54,7 @@
 
  **Developer Tools:** GitHub, Jupyter, VS Code, MySQL workbench, DataBricks, Linux
   
- **Frameworks/Libraries:** Apache Hadoop, Apache Hive, Pandas, NumPy, OpenCV, PyTorch 
+ **Frameworks/Libraries:** Apache Hadoop, Apache Hive, Pandas, NumPy, OpenCV, PyTorch
   
  **Core Competencies:** Communication, Decision Making, Self-Learning, Analysis, Teamwork
  </div>
