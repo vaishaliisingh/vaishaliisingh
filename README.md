@@ -56,7 +56,7 @@
   
  **Frameworks/Libraries:** Apache Hadoop, Apache Hive, Pandas, NumPy, OpenCV, PyTorch
   
- **Core Competencies:** Communication, Decision Making, Self-Learning, Analysis, Teamwork
+ **Core Competencies:** Communication, Decision Making, Self-Learning, Analysis, Teamwork, Observation
  </div>
 </div>
 
