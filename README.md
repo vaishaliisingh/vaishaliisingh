@@ -66,15 +66,15 @@
 <br>
 <div align=center>
   <a href="https://github.com/vaishaliisingh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=radical&border=7F3FBF&background=0D1117" alt="vaishali's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=radical&border=FF5733&background=1A1A1D" alt="vaishali's GitHub streak"/>
   </a>
   <a align = "center"> 
-    <a href="https://github.com/vaishaliisingh"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaishaliisingh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a> 
+    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaishaliisingh&show_icons=true&count_private=true&theme=react&border_color=FF5733&bg_color=1A1A1D&title_color=DAF7A6&icon_color=FFC300" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=react&border_color=FF5733&bg_color=1A1A1D&title_color=DAF7A6&icon_color=FFC300" height="192px" width="49.5%"/></a>
+  </a> 
 </div>
 
-<br/><br/>
+<br/> <br/>
 
 <!--
 **vaishaliisingh/vaishaliisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
