@@ -77,11 +77,8 @@
     <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" height="180px" width="45%" /></a>
   </a> 
 </div>
-
-
-
-
 <br/> <br/>
+
 
 <!--
 **vaishaliisingh/vaishaliisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
