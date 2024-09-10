@@ -70,13 +70,14 @@
 <br>
 <div align=center>
   <a href="https://github.com/vaishaliisingh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=radical&border=4A90E2&background=2C3E50&stroke=1ABC9C&ring=F39C12&fire=E74C3C&currStreakLabel=1ABC9C" alt="vaishali's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=default&border=8B4513&background=FFF5EE&stroke=A0522D&ring=CD853F&fire=D2691E&currStreakLabel=8B4513" alt="vaishali's GitHub streak"/>
   </a>
   <a align = "center"> 
-    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaishaliisingh&show_icons=true&count_private=true&theme=react&border_color=4A90E2&bg_color=2C3E50&title_color=F39C12&icon_color=E74C3C&text_color=ECF0F1" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=react&border_color=4A90E2&bg_color=2C3E50&title_color=F39C12&icon_color=E74C3C&text_color=ECF0F1" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaishaliisingh&show_icons=true&count_private=true&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vaishaliisingh"><img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" height="192px" width="49.5%"/></a>
   </a> 
 </div>
+
 
 
 <br/> <br/>
