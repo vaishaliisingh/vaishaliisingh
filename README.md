@@ -1,8 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaishaliisingh.vaishaliisingh" />
+<!-- Visitor Badge -->
+<img align="right" src="https://komarev.com/ghpvc/?username=vaishaliisingh&color=orange" alt="Profile Visitor Count"/>
 
+<!-- Typing Animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaishali+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=B5651D&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+there!+👋;+I+am+Vaishali+Singh△;+Welcome+to+my+GitHub🦖"/>
 </h1>
+
+
 
 <h3 align="center">"I am a Data Science and AI enthusiast from India, currently honing my skills in data structures & algorithms, and software development."</h3>
 
