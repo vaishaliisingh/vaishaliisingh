@@ -68,21 +68,28 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <a href="https://github.com/vaishaliisingh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=default&border=8B4513&background=FFF5EE&stroke=A0522D&ring=CD853F&fire=D2691E&currStreakLabel=8B4513" alt="vaishali's GitHub streak" />
-  </a>
-  <a href="https://github.com/vaishaliisingh">
-    <img alt="vaishali singh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaishaliisingh&show_icons=true&count_private=true&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" />
-  </a>
-  <a href="https://github.com/vaishaliisingh">
-    <img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" />
-  </a>
-</div>
 
-
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vaishaliisingh">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=default&border=8B4513&background=FFF5EE&stroke=A0522D&ring=CD853F&fire=D2691E&currStreakLabel=8B4513" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vaishaliisingh">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaishaliisingh&show_icons=true&count_private=true&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/vaishaliisingh">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br/> <br/>
 
 
