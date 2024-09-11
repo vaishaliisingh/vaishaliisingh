@@ -1,5 +1,7 @@
 <!-- Visitor Badge -->
-<img align="right" src="https://komarev.com/ghpvc/?username=vaishaliisingh&color=orange" alt="Profile Visitor Count"/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=vaishaliisingh&color=orange" alt="Profile Visitor Count"/>
+</div>
 
 <!-- Typing Animation -->
 <h1 align="center">
