@@ -1,5 +1,5 @@
 <!-- Visitor Badge -->
-<img align="Left" src="https://komarev.com/ghpvc/?username=vaishaliisingh&color=orange" alt="Profile Visitor Count"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=vaishaliisingh&color=orange" alt="Profile Visitor Count"/>
 
 <!-- Typing Animation -->
 <h1 align="center">
@@ -68,7 +68,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center; gap: 10px;">
   <a href="https://github.com/vaishaliisingh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=default&border=8B4513&background=FFF5EE&stroke=A0522D&ring=CD853F&fire=D2691E&currStreakLabel=8B4513" alt="vaishali's GitHub streak" />
   </a>
@@ -79,6 +79,7 @@
     <img alt="vaishali singh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaishaliisingh&langs_count=8&layout=compact&theme=default&border_color=8B4513&bg_color=FFF5EE&title_color=A0522D&icon_color=D2691E&text_color=8B4513" />
   </a>
 </div>
+
 
 
 
