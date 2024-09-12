@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=B5651D&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+there!+👋;+I+am+Vaishali+Singh△;+Welcome+to+my+GitHub🦖"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=D5FF90&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+there!+👋;+I+am+Vaishali+Singh△;+Welcome+to+my+GitHub🦖"/>
 </h1>
 
 
