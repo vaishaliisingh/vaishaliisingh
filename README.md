@@ -35,6 +35,9 @@
   <a href="https://linkedin.com/in/vaishaliisingh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://medium.com/vaishaliisingh" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
@@ -92,6 +95,7 @@
     </td>
   </tr>
 </table>
+
 <br/> <br/>
 
 
