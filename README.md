@@ -38,6 +38,9 @@
   <a href="https://medium.com/vaishaliisingh" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/itevishi" target="_blank">
+    <img src="https://img.shields.io/badge/kaggle-12100E?style=for-the-badge&logo=kaggle&logoColor=blue" />
+  </a>
 </div>
 
  <hr/>
@@ -45,7 +48,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,visualstudio,mysql,github,windows" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,visualstudio,mysql,github,windows"/>
     <img src="https://skillicons.dev/icons?i=html,css,linux,opencv,pytorch,jupyter <div align="center">
     
 </div>
