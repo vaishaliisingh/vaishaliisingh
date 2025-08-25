@@ -81,7 +81,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/vaishaliisingh">
-        <img src="https://user-images.githubusercontent.com/20955511/183303749-1a489c0e-7a53-4fd5-90cd-b1271aca26e3.png?user=vaishaliisingh&theme=default&border=8B4513&background=FFF5EE&stroke=A0522D&ring=CD853F&fire=D2691E&currStreakLabel=8B4513" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishaliisingh&theme=default&border=8B4513&background=FFF5EE&stroke=A0522D&ring=CD853F&fire=D2691E&currStreakLabel=8B4513" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center">
